@@ -1,0 +1,23 @@
+﻿  Ant_MAP.cpp
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(53): warning C4804: “>”: 在操作中使用类型“bool”不安全
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(78): warning C4091: “typedef ”: 没有声明变量时忽略“Find::ChooseNextSpot::stru”的左侧
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(149): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(152): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(156): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\ant_map.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+  GUI_MAP.cpp
+  main.cpp
+  武大地图.cpp
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\武大地图.cpp(223): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\武大地图.cpp(233): warning C4101: “p”: 未引用的局部变量
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\武大地图.cpp(232): warning C4101: “j”: 未引用的局部变量
+  正在生成代码...
+c:\users\open account\source\repos\consoleapplication2\consoleapplication2\武大地图.cpp(115): warning C4715: “Dispath”: 不是所有的控件路径都返回值
+  ConsoleApplication2.vcxproj -> C:\Users\Open account\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
