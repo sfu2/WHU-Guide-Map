@@ -4,4 +4,4 @@ Campus Guide Map of WHU.
 ### Requirement
 EGE (Easy Graphic Engine)
 ### Screen Shot
-![](image/preview.png)
+![](preview.png)
